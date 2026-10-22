@@ -17,4 +17,3 @@ class Solution(object):
         j+=1
       for k in range(m + n):
         nums1[k] = union[k]
-        
